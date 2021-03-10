@@ -1,0 +1,23 @@
+{
+    "name": "janai/digital-cep",
+    "description": "Busca de Cep onLine",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "janainaborges",
+            "email": "janainaborgesdr@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload":{
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "janai\\DigitalCep\\": "src/"
+        }
+    }
+}
