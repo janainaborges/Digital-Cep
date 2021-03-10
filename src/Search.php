@@ -1,6 +1,6 @@
 <?php
 
-namespace janai\DigitalCep;
+namespace Janai\DigitalCep;
 
 class Search{
 
