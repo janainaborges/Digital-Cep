@@ -1,6 +1,7 @@
 <?php
 
 require_once "vendor/autoload.php";
+require_once "/xampp/php/PEAR";
 
 use janai\DigitalCep\Search;
 
